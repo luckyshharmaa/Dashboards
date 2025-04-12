@@ -1,1 +1,1 @@
-# Hr-Dashboard
+Dashboards
